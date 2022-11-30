@@ -1,4 +1,5 @@
 google.com, pub-5843594474054162, DIRECT, f08c47fec0942fa0
+yandex.com, 1b7e5b0849b31e5a0b14586264cadf1a, DIRECT
 #Updated November 21th, 2022
 #Appodeal
 appodeal.com, 160258, DIRECT
